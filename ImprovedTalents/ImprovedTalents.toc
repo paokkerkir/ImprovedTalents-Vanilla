@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Improved Talents
+## Notes: Improved Talents panel
+## Version: 1.0
+## Author: belthazor
+## SavedVariables: TALENTSVIEWER_SV
+
+talents.lua
