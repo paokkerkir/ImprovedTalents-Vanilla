@@ -7,4 +7,4 @@ Improved Talents panel for Vanilla WoW 1.12
 
 # Installation
 - Download as .zip
-- Extract folder "ImprovedPanels" to Wow/Interface/Addons
+- Extract folder "ImprovedTalents" to Wow/Interface/Addons
